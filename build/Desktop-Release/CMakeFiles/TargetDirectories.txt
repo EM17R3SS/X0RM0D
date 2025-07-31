@@ -1,0 +1,9 @@
+/home/empr3ss/Desktop/Study/wrk/untitled/build/Desktop-Release/CMakeFiles/untitled.dir
+/home/empr3ss/Desktop/Study/wrk/untitled/build/Desktop-Release/CMakeFiles/edit_cache.dir
+/home/empr3ss/Desktop/Study/wrk/untitled/build/Desktop-Release/CMakeFiles/rebuild_cache.dir
+/home/empr3ss/Desktop/Study/wrk/untitled/build/Desktop-Release/CMakeFiles/list_install_components.dir
+/home/empr3ss/Desktop/Study/wrk/untitled/build/Desktop-Release/CMakeFiles/install.dir
+/home/empr3ss/Desktop/Study/wrk/untitled/build/Desktop-Release/CMakeFiles/install/local.dir
+/home/empr3ss/Desktop/Study/wrk/untitled/build/Desktop-Release/CMakeFiles/install/strip.dir
+/home/empr3ss/Desktop/Study/wrk/untitled/build/Desktop-Release/CMakeFiles/untitled_autogen_timestamp_deps.dir
+/home/empr3ss/Desktop/Study/wrk/untitled/build/Desktop-Release/CMakeFiles/untitled_autogen.dir

@@ -1,0 +1,23 @@
+# ninja log v6
+3	1125	1753944827959216431	/home/empr3ss/Desktop/Study/wrk/untitled/build/Desktop-Debug/cmake_install.cmake	47d45f9d29f09647
+3	1125	1753944827959216431	build.ninja	47d45f9d29f09647
+7	819	1753985553284934703	untitled_autogen/timestamp	27a550de95418dc3
+7	819	1753985553284934703	untitled_autogen/mocs_compilation.cpp	27a550de95418dc3
+7	819	1753985553284934703	/home/empr3ss/Desktop/Study/wrk/untitled/build/Desktop-Debug/untitled_autogen/timestamp	27a550de95418dc3
+7	819	1753985553284934703	/home/empr3ss/Desktop/Study/wrk/untitled/build/Desktop-Debug/untitled_autogen/mocs_compilation.cpp	27a550de95418dc3
+473	794	1753944828644217342	CMakeFiles/untitled.dir/untitled_autogen/mocs_compilation.cpp.o	a111c4e7dc45623d
+1153	9760	1753845115061639284	CMakeFiles/untitled.dir/main.cpp.o	25ec49c2744a287e
+10478	11358	1753985563755920581	untitled	6f38aadac00fc3c0
+820	10478	1753985554097933608	CMakeFiles/untitled.dir/osn.cpp.o	729f1887f9c0d7c5
+8	811	1753985672434772736	untitled_autogen/timestamp	27a550de95418dc3
+8	811	1753985672434772736	untitled_autogen/mocs_compilation.cpp	27a550de95418dc3
+8	811	1753985672434772736	/home/empr3ss/Desktop/Study/wrk/untitled/build/Desktop-Debug/untitled_autogen/timestamp	27a550de95418dc3
+8	811	1753985672434772736	/home/empr3ss/Desktop/Study/wrk/untitled/build/Desktop-Debug/untitled_autogen/mocs_compilation.cpp	27a550de95418dc3
+811	9337	1753985673237771636	CMakeFiles/untitled.dir/osn.cpp.o	729f1887f9c0d7c5
+9337	10008	1753985681763759946	untitled	6f38aadac00fc3c0
+5	757	1753986005895308205	untitled_autogen/timestamp	27a550de95418dc3
+5	757	1753986005895308205	untitled_autogen/mocs_compilation.cpp	27a550de95418dc3
+5	757	1753986005895308205	/home/empr3ss/Desktop/Study/wrk/untitled/build/Desktop-Debug/untitled_autogen/timestamp	27a550de95418dc3
+5	757	1753986005895308205	/home/empr3ss/Desktop/Study/wrk/untitled/build/Desktop-Debug/untitled_autogen/mocs_compilation.cpp	27a550de95418dc3
+757	10241	1753986006647307143	CMakeFiles/untitled.dir/osn.cpp.o	729f1887f9c0d7c5
+10242	10931	1753986016132293751	untitled	6f38aadac00fc3c0
